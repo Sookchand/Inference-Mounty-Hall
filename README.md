@@ -11,11 +11,7 @@ Brunel University London
 
 
 ## Demo
-
-- Breadth-First Search (FIFO): The route is [1, 6, 5], and total cost is 23.
-- Depth-First Search (LIFO): The route is [1, 6, 5], and total cost is 23.
-- Uniform-Cost Search: The route is [1, 3, 6, 5], and total cost is 20.
-
+![image](https://user-images.githubusercontent.com/34344439/210089429-f735d879-5181-441b-add8-7ca00c81aa7a.png)
 
 ## Tech Stack
 - Python, 
